@@ -4,3 +4,9 @@
 [submodule "cash-e-waste-backend"]
 	path = cash-e-waste-backend
 	url = https://github.com/Shubham-Kumar-2000/cash-e-waste-backend.git
+[submodule "cash-e-waste"]
+	path = cash-e-waste
+	url = https://github.com/Adi-11/cash-e-waste.git
+[submodule "cash-e-waste-company"]
+	path = cash-e-waste-company
+	url = https://github.com/Adi-11/cash-e-waste-company.git
